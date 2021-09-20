@@ -1,0 +1,44 @@
+[05-Jun-2021 10:07:55 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:07:55 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:07:55 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:08:43 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:21:59 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:24:12 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:30:11 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[13-Jun-2021 13:46:25 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[13-Jun-2021 13:46:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:02:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 229
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 229
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 230
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 230
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 231
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 231
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 232
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 232
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 233
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 233
+[14-Jun-2021 06:10:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:11:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
